@@ -1,0 +1,40 @@
+th {
+    color:rgb(60, 255, 0);
+}
+
+td{
+    color:red;
+}
+
+h1{
+    color:yellow;
+    text-shadow: 06px 06px 06px black;
+    text-align: center;
+}
+
+table th{
+   column-width: 500px;
+}
+
+th{
+    background-color:#f62003;
+    text-align: left;
+}
+h2{
+   color:blue;
+   font-size: 100px;
+   margin-left:300px;
+   font-style:italic;
+   text-shadow:10px 10px 20px green;
+   
+}
+
+.center{
+    margin-left:220px;
+    border:black;
+    size: 50px;
+}
+
+
+
+
